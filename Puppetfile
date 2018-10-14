@@ -16,7 +16,7 @@ mod 'testrepo',
   :git    => 'https://github.com/ndkl/testrepo.git',
   :branch => 'master'
 
-mod 'puppetlabs-apache' '1.10.0'
-mod 'puppetlabs-mysql'  '3.10.0'
-mod 'mayflower-php'     '4.0.0-beta1'
+mod 'puppetlabs-apache', '1.10.0'
+mod 'puppetlabs-mysql',  '3.10.0'
+mod 'mayflower-php',     '4.0.0-beta1'
 mod 'puppetlabs-concat'
